@@ -1,9 +1,8 @@
 # Name for Anything
----
 
 Name for Anything is a random word generator built on Python.
 
-Name for anything syllables were gotten from a syllables table and processed using Python. (syllables are from spanish, sorry "gringos" :().
+Name for anything syllables were gotten from a syllables table and processed using Python. (syllables are from spanish, sorry gringos).
 
 N4A uses stadistics to put to each letter a specific frecuency, with which, a letter will appear in the text. You can customize it to generate a specific type of syllables.
 
